@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Antonio Santos ✌️
-
 <br>
-
 ### Apaixonado por tecnologia, já participei de diversos projetos, comecei como estagiário passei pela área de suporte, implantação, sustentação, desenvolvimento e gestão. 
 
 <br>
