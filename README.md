@@ -7,7 +7,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/antonio-santos-731a39141/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oantonio.com.br/) [![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMlU8SfA6QB0k2YpyznbOvw)
+)](https://www.linkedin.com/in/antonio-santos-731a39141/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oantonio.br/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-henrigo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
